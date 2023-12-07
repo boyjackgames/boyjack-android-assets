@@ -1,3 +1,3 @@
-# boyjack-android-assets
+# BoyJack Android Assets
 
 Добро пожаловать на BoyJack Android Assets - The BoyJack Party Pack Number Downloading Game...
