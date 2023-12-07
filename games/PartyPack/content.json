@@ -1,0 +1,57 @@
+{
+  "games": [
+     {
+	  "name":"YDKJ2015",
+      "mainSwf": "",
+      "title": "СКОРО ДОСТУПНО",
+      "players": "ЗАКРЫТО ИГРОКОВ",
+      "controllers": "НАЖМИТЕ НА КНОПКУ ЧТОБЫ ЗАКРЫТИЕ ПРИЛОЖЕНИЯ ANDROID",
+      "descriptionFile":"content/YDKJ2015.html",
+	  "hasADemo":true,
+	  "video":"videos/fibbage"
+    },
+	 {
+	  "name":"Fibbage",
+      "mainSwf": "FibbageXL.swf",
+      "title": "Fibbage",
+      "players": "2-8 ИГРОКОВ",
+      "controllers": "НУЖНЫ СМАРТФОНЫ ИЛИ ПЛАНШЕТЫ ДЛЯ МУЛЬТИПЛЕЕРА",
+      "descriptionFile":"content/TriviaDeath.html",
+	  "hasADemo":true,
+	  "video":"videos/fibbage"
+    },
+	{
+	  "name":"Quiplash",
+      "mainSwf": "Quiplash.swf",
+      "title": "Quiplash",
+      "players": "3-8 ИГРОКОВ",
+      "controllers": "НУЖНЫ СМАРТФОНЫ ИЛИ ПЛАНШЕТЫ ДЛЯ МУЛЬТИПЛЕЕРА",
+      "descriptionFile":"content/TriviaDeath2.html",
+	  "hasADemo":false,
+	  "videoPreview":"videos/preview",
+	  "video":"videos/quiplashxl"
+    },
+	{
+	  "name":"Fibbage2",
+      "mainSwf": "Fibbage2.swf",
+      "title": "Fibbage2",
+      "players": "2-8 ИГРОКОВ",
+      "controllers": "НУЖНЫ СМАРТФОНЫ ИЛИ ПЛАНШЕТЫ ДЛЯ МУЛЬТИПЛЕЕРА",
+      "descriptionFile":"content/Disport.html",
+	  "hasADemo":false,
+	  "videoPreview":"videos/preview",
+	  "video":"videos/fibbage2"
+    },
+    {
+	  "name":"Quiplash2",
+      "mainSwf": "Quiplash2.swf",
+      "title": "Quiplash2",
+      "players": "3-8 ИГРОКОВ",
+      "controllers": "НУЖНЫ СМАРТФОНЫ ИЛИ ПЛАНШЕТЫ ДЛЯ МУЛЬТИПЛЕЕРА",
+      "descriptionFile":"content/Pasteurized.html",
+	  "hasADemo":false,
+	  "videoPreview":"videos/preview",
+	  "video":"videos/quiplash2"
+    }
+  ]
+}
